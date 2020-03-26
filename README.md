@@ -1,2 +1,2 @@
-# mouthwash
-Mouth censors bad words
+# Mouth Wash
+Mouth Wash censors bad words
